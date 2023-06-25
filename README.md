@@ -1,10 +1,12 @@
-# ☑️ Vysakh UL 
+# $${\color{cyan}def \space \color{lightblue}Vysakh UL \color{greenyellow}():}$$ 
 
 **`Digital Craftsman (Developer/Artist/Designer)`**
 
 I'm a Python developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my content on instagram are built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish my content on Instagram "[imvysakh][instagram]" to more than 600 followers.
 
-[![Vysakh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vysakhul&theme=react&show_icons=true)](https://github.com/vysakhul/github-readme-stats)
+[![Vysakh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vysakhul&rank_icon=github&theme=react&show_icons=true#gh-dark-mode-only)](https://github.com/vysakhul/github-readme-stats#gh-dark-mode-only)
+[![Vysakh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vysakhul&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vysakhul/github-readme-stats#gh-light-mode-only)
+
    <p align="left">
       <a href="https://github.com/vysakhul?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
