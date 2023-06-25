@@ -30,7 +30,7 @@ I'm a Python developer and content creator building my version of the digital wo
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
@@ -49,9 +49,9 @@ I'm a Python developer and content creator building my version of the digital wo
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/vysakhul/vysakh-blog/tree/master/Advanced/069-Blog-With-Users-Flask-db"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=vysakhs-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Vysakhs blog"></a>
-    <a href="https://github.com/vysakhul/PHPTravels"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=PHPTravels&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PHPTravels"></a>
-    <a href="https://github.com/vysakhul/vysakh-blog/tree/master/Advanced/069-Blog-With-Users-Flask-db"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=TrainerManagement&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TrainerManagement"></a>
+    <a href="https://github.com/vysakhul/vysakh-blog/tree/master/Advanced/069-Blog-With-Users-Flask-db"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=vysakhs-blog&theme=react&bg_color=1F222E&title_color=329ae9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Vysakhs blog"></a>
+    <a href="https://github.com/vysakhul/PHPTravels"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=PHPTravels&theme=react&bg_color=1F222E&title_color=329ae9&hide_border=true&icon_color=F8D866&show_icons=false" alt="PHPTravels"></a>
+    <a href="https://github.com/vysakhul/vysakh-blog/tree/master/Advanced/069-Blog-With-Users-Flask-db"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=TrainerManagement&theme=react&bg_color=1F222E&title_color=329ae9&hide_border=true&icon_color=F8D866&show_icons=false" alt="TrainerManagement"></a>
   </p>
 
   <a href="https://github.com/vysakhul?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
