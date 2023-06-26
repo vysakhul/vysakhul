@@ -43,6 +43,22 @@ I'm a Python developer and content creator building my version of the digital wo
 
 ---
 
+### 🧰 Certification
+<table>
+<tr>
+<td><img width="600px" src="https://i.ibb.co/wp0wMP2/GCC-badge-DA-1000x1000.png" alt="Google-Data-Analytics" border="0"></td>
+<td><p>&emsp;</p>An eight courses certification program developed by Google, that includes hands-on, practice-based assessments and designed to cover different stages of the Data Analytics process of preparing data, processing, analysing and sharing the data for thoughtful action. Tools and platforms covered during the course include,<p>● Spreadsheet&emsp;● Tableau&emsp;● R Programming</p> <p>&emsp;</p></td>
+</tr>
+<tr>
+<td><img width="600px" src="https://i.ibb.co/DMKBDFf/GCC-badge-python-1000x1000.png" alt="Google-Python-Automation" border="0" ></td>
+<td><p>&emsp;</p>This six-course certificate program developed by Google. The Python based course cover topics like Git, IT automation, and also roadmap to additional learning for advanced packages. Additional learning based on package documentation and online resources include, <p>● Django&emsp;● Pandas&emsp;● Tkinter&emsp;● Selenium</p><p>&emsp;</p></td>
+</tr>
+<tr>
+<td><img width="600px" src="https://i.ibb.co/1ZpG8yM/ICT-Soft-Test.png" alt="Software-Testing" border="0"></td>
+<td><p>&emsp;</p>A 6 months course designed by the ICT Academy that starts from the basics of Software Life Cycles and then moves forwards to a Testing focused approach covering the theoretical basics and then the tools of the trade. Follows a hands-on approach to working with Selenium and parallelly working on a Test Plan documentation from scratch. The final project is a full scale Performance and Functional testing of a portal and an Internship that provides industry level exposure<p>● Selenium(Java)&emsp;● Jmeter&emsp;● Jira&emsp;</p><p>&emsp;</p></td>
+</tr>
+</table>
+
 
 ### 📘 My Top Open Source Projects
 
