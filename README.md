@@ -64,7 +64,9 @@ I'm a Python developer and content creator building my version of the digital wo
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  
   <p align="left">
+      <a href="https://github.com/vysakhul/InstagramFollowerPlus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=InstagramFollowerPlus&theme=react&bg_color=1F222E&title_color=329ae9&hide_border=true&icon_color=F8D866&show_icons=false" alt="InstagramFollowerPlus"></a>
     <a href="https://github.com/vysakhul/vysakh-blog/tree/master/Advanced/069-Blog-With-Users-Flask-db"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=Vysakh-Blog&theme=react&bg_color=1F222E&title_color=329ae9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Vysakhs blog"></a>
     <a href="https://github.com/vysakhul/SoftwareTesting-Selenium-TCS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=SoftwareTesting-Selenium-TCS&theme=react&bg_color=1F222E&title_color=329ae9&hide_border=true&icon_color=F8D866&show_icons=false" alt="SoftwareTesting-Selenium-TCS"></a>
     <a href="https://github.com/vysakhul/SoftwareTesting-Selenium-ICT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vysakhul&repo=SoftwareTesting-Selenium-ICT&theme=react&bg_color=1F222E&title_color=329ae9&hide_border=true&icon_color=F8D866&show_icons=false" alt="SoftwareTesting-Selenium-ICT"></a>
