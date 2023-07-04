@@ -1,5 +1,9 @@
 <h1>def Vysakh():</h1>
 
+<img src="https://drive.google.com/uc?export=view&id=1X_dDAcxsPlrDZEDaA_Q8O5fpz7FBFLOt" alt="banner"/>
+
+
+
 **`Digital Craftsman (Developer/Artist/Designer)`**
 
 I'm a Python developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my content on instagram are built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
