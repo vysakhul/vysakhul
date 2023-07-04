@@ -1,8 +1,4 @@
-<h1>def Vysakh():</h1>
-
-![](https://drive.google.com/uc?export=view&id=1X_dDAcxsPlrDZEDaA_Q8O5fpz7FBFLOt)
-
-<img src="https://drive.google.com/uc?export=view&id=1gnYLHsqv1qIBVrC4Wn3LDTOKWqNUqPmY" alt="top10movies2"/>
+<img src="https://github.com/vysakhul/vysakhul/blob/main/files/n9dfsdf-ban-upd.gif" alt="banner"/>
 
 
 
