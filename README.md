@@ -1,4 +1,4 @@
-<img src="https://github.com/vysakhul/vysakhul/blob/main/files/n9dfsdf-ban-upd.gif" alt="banner"/>
+<img src="https://github.com/vysakhul/vysakhul/blob/main/files/GitBannerupd.gif" alt="banner"/>
 
 
 
