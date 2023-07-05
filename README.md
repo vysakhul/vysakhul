@@ -1,4 +1,4 @@
-<img src="https://github.com/vysakhul/vysakhul/blob/main/files/GitBannerupd.gif" alt="banner"/>
+<img src="https://github.com/vysakhul/vysakhul/blob/main/files/GitBanner-opt.gif" alt="banner"/>
 
 
 
