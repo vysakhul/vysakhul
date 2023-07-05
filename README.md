@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Developer/Artist/Designer)`**
 
-I'm a Python developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my content on instagram are built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+I'm a Python developer and designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my content on instagram are built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
    <p align="left">
       <a href="https://github.com/vysakhul?tab=repositories&sort=stargazers">
